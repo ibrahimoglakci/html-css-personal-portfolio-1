@@ -696,11 +696,7 @@
     <!--=============== JS ===============-->
     <script src="assets/js/main.js"></script>
 
-    <script>
-    var ses = document.getElementById("dinoaudio");
-
-    ses.play();
-    </script>
+ 
 
 
 
